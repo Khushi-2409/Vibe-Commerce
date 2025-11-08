@@ -173,19 +173,19 @@ Frontend runs at → **[http://localhost:3000](http://localhost:3000)**
 **Home Page**
 
 > Hero section with search bar and featured products
-> 
+
 > <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d22b723c-980e-4b08-9369-0b6f12d51a7d" />
->
+
 > <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4d67234f-c8dc-4b3f-8fd1-fc0411575083" />
 
 **Cart Page**
 
 > Product images, live total, quantity controls, checkout popup
-> 
+
 > <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4ec2217d-eff3-4198-8be0-c63f5c8b2f0f" />
->
+
 > <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b7a26a44-569b-4a0c-b192-62c3e30ccaf4" />
->
+
 > <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dc465a47-d355-469b-b209-b32a46d594af" />
 
 
