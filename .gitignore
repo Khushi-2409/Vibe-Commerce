@@ -1,0 +1,27 @@
+# Node / JS
+**/node_modules/
+**/build/
+**/dist/
+**/.parcel-cache/
+**/.next/
+**/.nuxt/
+**/coverage/
+**/.vite/
+
+# Env & local
+.env
+.env.*
+*.local
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Lockfiles are OK to commit; remove next line if you want to keep them ignored
+# (Most teams commit lockfiles.)
+# package-lock.json
+# yarn.lock
